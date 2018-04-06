@@ -1,0 +1,12 @@
+{
+  "jsxSingleQuote": true,
+  "useTabs": false,
+  "tabWidth": 2,
+  "typescriptEnable": ["typescript", "typescriptreact"],
+  "jsonEnable": ["json"],
+  "singleQuote": true,
+  "semi": true,
+  "bracketSpacing": true,
+  "printWidth": 80,
+  "jsxBracketSameLine": true
+}

@@ -1,0 +1,31 @@
+{
+  "name": "@envoy/react-native-transform-view",
+  "version": "0.0.1",
+  "description": "Use transform origin with React Native Views",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc --pretty",
+    "lint": "tslint -p . 'src/**/*.ts{,x}'"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Asa Miller",
+    "email": "asa@asamiller.com",
+    "url": "https://www.asamiller.com"
+  },
+  "devDependencies": {
+    "@types/node": "^9.6.2",
+    "@types/react": "^16.3.5",
+    "@types/react-native": "^0.52.24",
+    "prettier": "^1.11.1",
+    "react-native": "^0.55.1",
+    "tslint": "^5.9.1",
+    "tslint-config-standard": "^7.0.0",
+    "tslint-react": "^3.5.1",
+    "typescript": "^2.8.1"
+  }
+}
